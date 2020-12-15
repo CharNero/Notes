@@ -3,7 +3,7 @@
 `git sudo extract tmux zsh-autosuggestions zsh-syntax-highlighting`
 
 * sudo 双击esc 快速在命令前加sudo 
-* extract 解压命令 需安装tar,zip,unrar等命令配合使用，不用单独调每一个命令，同意使用这个解压
+* extract 解压命令 需安装tar,zip,unrar等命令配合使用，不用单独调每一个命令，统一使用这个解压
 
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
 
